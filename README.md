@@ -2,7 +2,7 @@
 Fast Sudoku Solver which detects the puzzle from the image and solves it.
 
 
-!["Original"](tests/sudokutest2.png?raw=true "Original Image")
+!["Original"](tests/sudokutest2.jpg?raw=true "Original Image")
 
 !["Binarisation"](tests/Filtered.png?raw=true "Binarised Image")
 
