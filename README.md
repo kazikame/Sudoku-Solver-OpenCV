@@ -1,2 +1,3 @@
 # Sudoku-Solver-OpenCV
-Extracts and solves, and displays Sudoku from images
+Fast Sudoku Solver from captured images using OpenCV Library.
+
